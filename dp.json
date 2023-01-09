@@ -1,0 +1,24 @@
+{
+    "Post": {
+      "images": [
+       "https://firebasestorage.googleapis.com/v0/b/eccumerceprogect.appspot.com/o/users%2Fimage1.png?alt=media&token=e15cecf7-8024-435d-b858-23f6f2b76bb4",
+       "https://firebasestorage.googleapis.com/v0/b/eccumerceprogect.appspot.com/o/users%2Fimage1.png?alt=media&token=e15cecf7-8024-435d-b858-23f6f2b76bb4"
+
+      ]
+      ,
+      "huose": {
+        "houseName":[
+            "Calabasas, CA",
+            "Calabasas, CA",
+            "Calabasas, CA",
+            "Calabasas, CA",
+            "Calabasas, CA",
+            "Calabasas, CA"
+
+
+        ]
+    
+      }
+
+  }
+}
