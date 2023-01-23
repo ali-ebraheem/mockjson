@@ -18,8 +18,10 @@
 
         ]
     
-      },
-         "products": [
+      }
+
+  },
+     "products": [
       {
         "id": 1,
         "name": "Logitech Wireless Mouse",
@@ -156,7 +158,5 @@
         "image_url": "assets/Images/lenovox1.jpg"
       }
     ]
-
-  }
     
 }
