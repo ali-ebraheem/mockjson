@@ -153,57 +153,7 @@
         "image_url": "assets/Images/BenQ.jpg"
       }
     ]
-  },
-   "hard":{
-    "Storage": [
-    
-      {
-        "id": 16,
-        "name": "Samsung T5 SSD",
-        "description": "A high-performance solid state drive with 500GB of storage.",
-        "price": 129.99,
-        "quantity": 1,
-        "category": "Storage",
-        "image_url": "assets/Images/ssdsamsung.jpg"
-      },
-      {
-        "id": 17,
-        "name": "Seagate Backup Plus Slim",
-        "description": "The Seagate Backup Plus Slim is a portable external hard drive with a capacity of 2TB.",
-        "price": 79.99,
-        "quantity": 6,
-        "category": "Storage",
-        "image_url": "assets/Images/seagate.png"
-      },
-      {
-        "id": 18,
-        "name": "SanDisk Ultra Dual Drive",
-        "description": "The SanDisk Ultra Dual Drive is a dual-interface flash drive with a capacity of 128GB.",
-        "price": 19.99,
-        "quantity": 2,
-        "category": "Storage",
-        "image_url": "assets/Images/ultra-dual-drive.png"
-      },
-      {
-        "id": 19,
-        "name": "Transcend StoreJet 25M3",
-        "description": "The Transcend StoreJet 25M3 is a ruggedized external hard drive with a capacity of 1TB.",
-        "price": 59.99,
-        "quantity": 10,
-        "category": "Storage",
-        "image_url": "assets/Images/TranscendStore.jpg"
-      },   
-         {
-        "id": 20,
-        "name": "Crucial MX500 1TB SSD",
-        "description": "The Crucial MX500 1TB SSD is a high-performance internal solid state drive with a capacity of 1TB.",
-        "price": 159.99,
-        "quantity": 10,
-        "category": "Storage",
-        "image_url": "assets/Images/Crusial.jpg"
-      }
-    ]
-  },
+  },   
    "taplet":{
     "tablets": [
       {
