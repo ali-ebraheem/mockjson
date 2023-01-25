@@ -29,7 +29,7 @@
                 "price": 29.99,
                 "quantity": 10,
                 "category": "Accessories",
-                "image_url": "assets/Images/logitech.png"
+                "image_url": "assets/images/logitech.png"
             },
             {
                 "id": 2,
@@ -38,7 +38,7 @@
                 "price": 89.99,
                 "quantity": 5,
                 "category": "Storage",
-                "image_url": "assets/Images/backup-plus-portable.png"
+                "image_url": "assets/images/backup-plus-portable.png"
             },
             {
                 "id": 3,
@@ -47,7 +47,7 @@
                 "price": 129.99,
                 "quantity": 0,
                 "category": "Storage",
-                "image_url": "assets/Images/ssdsamsung.jpg"
+                "image_url": "assets/images/ssdsamsung.jpg"
             },
             {
                 "id": 4,
@@ -56,7 +56,7 @@
                 "price": 99.99,
                 "quantity": 10,
                 "category": "Accessories",
-                "image_url": "assets/Images/design-medium.jpg"
+                "image_url": "assets/images/design-medium.jpg"
             },
             {
                 "id": 5,
@@ -65,7 +65,7 @@
                 "price": 199.99,
                 "quantity": 10,
                 "category": "Monitors",
-                "image_url": "assets/Images/asusmonitor.jpg"
+                "image_url": "assets/images/asusmonitor.jpg"
             },
             {
                 "id": 6,
@@ -74,7 +74,7 @@
                 "price": 169.99,
                 "quantity": 5,
                 "category": "Accessories",
-                "image_url": "assets/Images/keboardd.png"
+                "image_url": "assets/images/keboardd.png"
             },
             {
                 "id": 7,
@@ -83,7 +83,7 @@
                 "price": 399.99,
                 "quantity": 10,
                 "category": "Monitors",
-                "image_url": "assets/Images/lg.jpg"
+                "image_url": "assets/images/lg.jpg"
             },
             {
                 "id": 8,
@@ -92,7 +92,7 @@
                 "price": 69.99,
                 "quantity": 10,
                 "category": "Accessories",
-                "image_url": "assets/Images/razermouse.jpg"
+                "image_url": "assets/images/razermouse.jpg"
             },
             {
                 "id": 9,
@@ -101,7 +101,7 @@
                 "price": 799.99,
                 "quantity": 5,
                 "category": "Monitors",
-                "image_url": "assets/Images/asusmonitor.jpg"
+                "image_url": "assets/images/asusmonitor.jpg"
             },
             {
                 "id": 10,
@@ -110,7 +110,7 @@
                 "price": 99.99,
                 "quantity": 10,
                 "category": "Accessories",
-                "image_url": "assets/Images/headsetHyperx.jpg"
+                "image_url": "assets/images/headsetHyperx.jpg"
             },
             {
                 "id": 11,
@@ -119,7 +119,7 @@
                 "price": 1299.99,
                 "quantity": 10,
                 "category": "Laptops",
-                "image_url": "assets/Images/dellxps.jpg"
+                "image_url": "assets/images/dellxps.jpg"
             },
             {
                 "id": 12,
@@ -128,7 +128,7 @@
                 "price": 999.99,
                 "quantity": 5,
                 "category": "Tablets",
-                "image_url": "assets/Images/sufarce.png"
+                "image_url": "assets/images/sufarce.png"
             },
             {
                 "id": 13,
@@ -137,7 +137,7 @@
                 "price": 999.99,
                 "quantity": 10,
                 "category": "Laptops",
-                "image_url": "assets/Images/applemackbookair.jpg"
+                "image_url": "assets/images/applemackbookair.jpg"
             },
             {
                 "id": 14,
@@ -146,7 +146,7 @@
                 "price": 699.99,
                 "quantity": 10,
                 "category": "Tablets",
-                "image_url": "assets/Images/samsungtab.jpg"
+                "image_url": "assets/images/samsungtab.jpg"
             },
             {
                 "id": 15,
@@ -155,7 +155,7 @@
                 "price": 1499.99,
                 "quantity": 5,
                 "category": "Laptops",
-                "image_url": "assets/Images/lenovox1.jpg"
+                "image_url": "assets/images/lenovox1.jpg"
             }
         ]
     }
