@@ -1,4 +1,55 @@
 {
+   "accessories" :{ "accessories": [
+      {
+        "id": 1,
+        "name": "Logitech Wireless Mouse",
+        "description": "A wireless mouse with precision laser sensor and comfortable grip.",
+        "price": 29.99,
+        "quantity": 10,
+        "category": "Accessories",
+        "image_url": "assets/Images/logitech.png"
+      },
+      {
+        "id": 2,
+        "name": "Apple Magic Keyboard",
+        "description": "A sleek and stylish wireless keyboard for Mac and iOS devices.",
+        "price": 99.99,
+        "quantity": 10,
+        "category": "Accessories",
+        "image_url": "assets/Images/design-medium.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Corsair K95 RGB Platinum XT",
+        "description": "A premium mechanical gaming keyboard with Cherry MX Speed RGB switches.",
+        "price": 169.99,
+        "quantity": 5,
+        "category": "Accessories",
+        "image_url": "assets/Images/keboardd.png"
+      },
+
+      {
+        "id": 4,
+        "name": "Razer DeathAdder Elite Gaming Mouse",
+        "description": "A high-performance gaming mouse with a 16000 DPI optical sensor.",
+        "price": 69.99,
+        "quantity": 10,
+        "category": "Accessories",
+        "image_url": "assets/Images/razermouse.jpg"
+      },
+
+      {
+        "id": 5,
+        "name": "Wireless Headphones",
+        "description": "Experience superior sound quality with these wireless over-ear headphones. Features include noise-cancellation technology, built-in microphone, and long battery life.",
+        "price": 99.99,
+        "quantity": 50,
+        "category": "Accessories",
+        "image_url": "assets/Images/headphone.png"
+      }
+
+    ]},
+    
     "Post": {
       "images": [
        "https://firebasestorage.googleapis.com/v0/b/eccumerceprogect.appspot.com/o/users%2Fimage1.png?alt=media&token=e15cecf7-8024-435d-b858-23f6f2b76bb4",
