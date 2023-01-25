@@ -1,208 +1,163 @@
 {
-   "accessories" :{ "accessories": [
-      {
-        "id": 1,
-        "name": "Logitech Wireless Mouse",
-        "description": "A wireless mouse with precision laser sensor and comfortable grip.",
-        "price": 29.99,
-        "quantity": 10,
-        "category": "Accessories",
-        "image_url": "assets/Images/logitech.png"
-      },
-      {
-        "id": 2,
-        "name": "Apple Magic Keyboard",
-        "description": "A sleek and stylish wireless keyboard for Mac and iOS devices.",
-        "price": 99.99,
-        "quantity": 10,
-        "category": "Accessories",
-        "image_url": "assets/Images/design-medium.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Corsair K95 RGB Platinum XT",
-        "description": "A premium mechanical gaming keyboard with Cherry MX Speed RGB switches.",
-        "price": 169.99,
-        "quantity": 5,
-        "category": "Accessories",
-        "image_url": "assets/Images/keboardd.png"
-      },
+    "Post": {
+      "images": [
+       "https://firebasestorage.googleapis.com/v0/b/eccumerceprogect.appspot.com/o/users%2Fimage1.png?alt=media&token=e15cecf7-8024-435d-b858-23f6f2b76bb4",
+       "https://firebasestorage.googleapis.com/v0/b/eccumerceprogect.appspot.com/o/users%2Fimage1.png?alt=media&token=e15cecf7-8024-435d-b858-23f6f2b76bb4"
 
-      {
-        "id": 4,
-        "name": "Razer DeathAdder Elite Gaming Mouse",
-        "description": "A high-performance gaming mouse with a 16000 DPI optical sensor.",
-        "price": 69.99,
-        "quantity": 10,
-        "category": "Accessories",
-        "image_url": "assets/Images/razermouse.jpg"
-      },
-
-      {
-        "id": 5,
-        "name": "Wireless Headphones",
-        "description": "Experience superior sound quality with these wireless over-ear headphones. Features include noise-cancellation technology, built-in microphone, and long battery life.",
-        "price": 99.99,
-        "quantity": 50,
-        "category": "Accessories",
-        "image_url": "assets/Images/headphone.png"
-      }
-
-    ]},
-    
-   
-   "laptop":{
-    "laptops": [
-    
-      {
-        "id": 6,
-        "name": "Dell XPS 13",
-        "description": "A 13-inch Ultrabook with 10th Gen Intel Core i7 processor and 16GB of RAM",
-        "price": 1299.99,
-        "quantity": 10,
-        "category": "Laptops",
-        "image_url": "assets/Images/dellxps.jpg"
-      },
-  
-      {
-        "id": 7,
-        "name": "Apple MacBook Air",
-        "description": "A lightweight laptop with a 11.6-inch display and M1 chip.",
-        "price": 999.99,
-        "quantity": 10,
-        "category": "Laptops",
-        "image_url": "assets/Images/applemackbookair.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Lenovo ThinkPad X1 Carbon",
-        "description": "A 14-inch business laptop with a 10th Gen Intel Core i7 processor and 16GB of RAM.",
-        "price": 1499.99,
-        "quantity": 5,
-        "category": "Laptops",
-        "image_url": "assets/Images/lenovox1.jpg"
-      }
+      ]
       ,
-      {
-        "id": 9,
-        "name": "apple-laptop.png",
-        "description": "The latest MacBook Pro with a 14-inch Retina display, Touch Bar, and Touch ID. Powered by an 10th generation Intel Core i5 processor and Intel Iris Plus graphics.",
-        "price": 1299.99,
-        "quantity": 15,
-        "category": "Laptops",
-        "image_url": "assets/Images/apple-laptop.png"
-      }
-      ,
-      {
-        "id": 10,
-        "name": "Lenovo ThinkPad T14",
-        "description": "The Lenovo ThinkPad T14 is a powerful business laptop with a 14-inch FHD display, built-in security features, and long battery life. Powered by an 11th generation Intel Core i7 processor and NVIDIA GeForce MX450 graphics.",
-        "price": 1499.99,
-        "quantity": 10,
-        "category": "Laptops",
-        "image_url": "assets/Images/Lenovo ThinkPad T14.jpg"
-      }
-    ]
-  },
-   "monitor":{
-    "monitors": [
-      {
-        "id": 21,
-        "name": "ASUS VG245H Gaming Monitor",
-        "description": "A 24-inch Full HD gaming monitor with a fast 1ms response time.",
-        "price": 199.99,
-        "quantity": 10,
-        "category": "Monitors",
-        "image_url": "assets/Images/asusmonitor.jpg"
-      },
-     
-      {
-        "id": 22,
-        "name": "LG 34UM68-P 34-Inch",
-        "description": "A 34-inch ultrawide monitor with a resolution of 2560x1080 and a 5ms response time",
-        "price": 399.99,
-        "quantity": 10,
-        "category": "Monitors",
-        "image_url": "assets/Images/lg.jpg"
-      },
-      {
-        "id": 23,
-        "name": "Acer Predator XB271HU bmiprz",
-        "description": "A 27-inch WQHD gaming monitor with a 144Hz refresh rate and G-Sync technology.",
-        "price": 799.99,
-        "quantity": 5,
-        "category": "Monitors",
-        "image_url": "assets/Images/asusmonitor.jpg"
-      },
-      {
-        "id": 24,
-        "name": "Dell UltraSharp U2415",
-        "description": "The Dell UltraSharp U2415 is a 24-inch LED monitor with a 1920x1200 resolution, wide viewing angles, and a wide color gamut for color-critical applications.",
-        "price": 349.99,
-        "quantity": 15,
-        "category": "Monitors",
-        "image_url": "assets/Images/DellUltrasharp.jpg"
-      },
-      {
-        "id": 25,
-        "name": "BenQ PD2700U",
-        "description": "The BenQ PD2700U is a 27-inch 4K monitor with a 3840x2160 resolution, USB-C connectivity, and a wide color gamut for color-critical work. It features a sleek and modern design, and it's compatible with both MAC and PC",
-        "price": 499.99,
-        "quantity": 7,
-        "category": "Monitors",
-        "image_url": "assets/Images/BenQ.jpg"
-      }
-    ]
-  },   
-   "taplet":{
-    "tablets": [
-      {
-        "id": 11,
-        "name": "Surface Pro X",
-        "description": "A 2-in-1 tablet/laptop with a 13-inch touchscreen display and SQ2 processor.",
-        "price": 999.99,
-        "quantity": 5,
-        "category": "Tablets",
-        "image_url": "assets/Images/sufarce.png"
-      },
-      {
-        "id": 12,
-        "name": "Samsung Galaxy Tab S7",
-        "description": "A 11-inch tablet with a Super AMOLED display and Snapdragon 865+ processor.",
-        "price": 699.99,
-        "quantity": 10,
-        "category": "Tablets",
-        "image_url": "assets/Images/samsungtab.jpg"
-      },
-      {
-        "id": 13,
-        "name": "iPad Pro",
-        "description": "The latest iPad Pro with a 12.9-inch Liquid Retina display, A12Z Bionic chip, and ProMotion technology. Compatible with Apple Pencil and Smart Keyboard.",
-        "price": 799.99,
-        "quantity": 10,
-        "category": "Tablets",
-        "image_url": "assets/Images/ipadpro.png"
-      },
-      {
-        "id": 14,
-        "name": "Amazon Fire HD 10",
-        "description": "The Amazon Fire HD 10 is a budget-friendly tablet with a 10.1-inch HD display, quad-core processor, and up to 2GB of RAM. Comes with Amazon's Alexa built-in.",
-        "price": 149.99,
-        "quantity": 9,
-        "category": "Tablets",
-        "image_url": "assets/Images/amazone fire hd.jpg"
-      },
-      {
-        "id": 15,
-        "name": "ASUS ZenPad Z8s",
-        "description": "The ASUS ZenPad Z8s is a affordable tablet with a 7.9-inch IPS display, MediaTek MT8163B processor",
-        "price": 199.99,
-        "quantity": 4,
-        "category": "Tablets",
-        "image_url": "assets/Images/asus-zenpadjpg.jpg"
-      }
-    ]
-  }
+      "house": {
+        "houseName":[
+            "Calabasas, CA",
+            "Antioch, CA",
+            "Downey, CA",
+            "Costa Mesa, CA",
+            "Murrieta, CA",
+            "Temecula, CA"
+
+
+        ]
     
+      }
+
+  }, "Post1": {
+        "products": [
+            {
+                "id": 1,
+                "name": "Logitech Wireless Mouse",
+                "description": "A wireless mouse with precision laser sensor and comfortable grip.",
+                "price": 29.99,
+                "quantity": 10,
+                "category": "Accessories",
+                "image_url": "assets/images/logitech.png"
+            },
+            {
+                "id": 2,
+                "name": "Seagate Backup Plus Slim",
+                "description": "A slim and portable external hard drive with 2TB of storage.",
+                "price": 89.99,
+                "quantity": 5,
+                "category": "Storage",
+                "image_url": "assets/images/backup-plus-portable.png"
+            },
+            {
+                "id": 3,
+                "name": "Samsung T5 SSD",
+                "description": "A high-performance solid state drive with 500GB of storage.",
+                "price": 129.99,
+                "quantity": 0,
+                "category": "Storage",
+                "image_url": "assets/images/ssdsamsung.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Apple Magic Keyboard",
+                "description": "A sleek and stylish wireless keyboard for Mac and iOS devices.",
+                "price": 99.99,
+                "quantity": 10,
+                "category": "Accessories",
+                "image_url": "assets/images/design-medium.jpg"
+            },
+            {
+                "id": 5,
+                "name": "ASUS VG245H Gaming Monitor",
+                "description": "A 24-inch Full HD gaming monitor with a fast 1ms response time.",
+                "price": 199.99,
+                "quantity": 10,
+                "category": "Monitors",
+                "image_url": "assets/images/asusmonitor.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Corsair K95 RGB Platinum XT",
+                "description": "A premium mechanical gaming keyboard with Cherry MX Speed RGB switches.",
+                "price": 169.99,
+                "quantity": 5,
+                "category": "Accessories",
+                "image_url": "assets/images/keboardd.png"
+            },
+            {
+                "id": 7,
+                "name": "LG 34UM68-P 34-Inch",
+                "description": "A 34-inch ultrawide monitor with a resolution of 2560x1080 and a 5ms response time",
+                "price": 399.99,
+                "quantity": 10,
+                "category": "Monitors",
+                "image_url": "assets/images/lg.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Razer DeathAdder Elite Gaming Mouse",
+                "description": "A high-performance gaming mouse with a 16000 DPI optical sensor.",
+                "price": 69.99,
+                "quantity": 10,
+                "category": "Accessories",
+                "image_url": "assets/images/razermouse.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Acer Predator XB271HU bmiprz",
+                "description": "A 27-inch WQHD gaming monitor with a 144Hz refresh rate and G-Sync technology.",
+                "price": 799.99,
+                "quantity": 5,
+                "category": "Monitors",
+                "image_url": "assets/images/asusmonitor.jpg"
+            },
+            {
+                "id": 10,
+                "name": "HyperX Cloud II Gaming Headset",
+                "description": "A comfortable gaming headset with 7.1 virtual surround sound and a noise-cancelling microphone.",
+                "price": 99.99,
+                "quantity": 10,
+                "category": "Accessories",
+                "image_url": "assets/images/headsetHyperx.jpg"
+            },
+            {
+                "id": 11,
+                "name": "Dell XPS 13",
+                "description": "A 13-inch Ultrabook with 10th Gen Intel Core i7 processor and 16GB of RAM",
+                "price": 1299.99,
+                "quantity": 10,
+                "category": "Laptops",
+                "image_url": "assets/images/dellxps.jpg"
+            },
+            {
+                "id": 12,
+                "name": "Surface Pro X",
+                "description": "A 2-in-1 tablet/laptop with a 13-inch touchscreen display and SQ2 processor.",
+                "price": 999.99,
+                "quantity": 5,
+                "category": "Tablets",
+                "image_url": "assets/images/sufarce.png"
+            },
+            {
+                "id": 13,
+                "name": "Apple MacBook Air",
+                "description": "A lightweight laptop with a 11.6-inch display and M1 chip.",
+                "price": 999.99,
+                "quantity": 10,
+                "category": "Laptops",
+                "image_url": "assets/images/applemackbookair.jpg"
+            },
+            {
+                "id": 14,
+                "name": "Samsung Galaxy Tab S7",
+                "description": "A 11-inch tablet with a Super AMOLED display and Snapdragon 865+ processor.",
+                "price": 699.99,
+                "quantity": 10,
+                "category": "Tablets",
+                "image_url": "assets/images/samsungtab.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Lenovo ThinkPad X1 Carbon",
+                "description": "A 14-inch business laptop with a 10th Gen Intel Core i7 processor and 16GB of RAM.",
+                "price": 1499.99,
+                "quantity": 5,
+                "category": "Laptops",
+                "image_url": "assets/images/lenovox1.jpg"
+            }
+        ]
+    }
     
 }
